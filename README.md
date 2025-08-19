@@ -17,8 +17,8 @@
 | SO          | Serial Out (MISO) | D50              |
 | CS          | Chip Select       | D5               |
 
-> *Catatan:* Jika nanti pakai sensor kedua, setiap sensor harus punya pin CS masing-masing. SCK dan SO bisa dipakai bersama.
-> *Catatan:* untuk mikro lain silahkan sesuaikan pin SPInya (SCK dan S0)
+> *Catatan:* Jika nanti pakai sensor kedua, setiap sensor harus punya pin CS masing-masing. SCK dan SO bisa dipakai bersama.  
+> *Catatan:* untuk mikro lain silahkan sesuaikan pin SPInya (SCK dan S0)  
 
 ---
 
